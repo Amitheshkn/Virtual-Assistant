@@ -1,6 +1,6 @@
 # Virtual-Assistant using Python
 
-The virtual assistant is named JARVIS,name driven from the Iron Man movie.
+The virtual assistant is named JARVIS, name driven from the Iron Man movie.
 Key important libraries used:
 1.pyttsx3
 2.datetime
